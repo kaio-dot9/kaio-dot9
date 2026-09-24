@@ -1,23 +1,18 @@
-::: {align="center"}
+<div align="center">
 
-<!-- ================================================================ -->
+<img src="./assets/spiderman-banner.jpg" width="100%" alt="Kaio — Spider-Man GitHub Banner">
 
-<!--                       KAIO // SPIDER SYSTEM                      -->
+<br>
 
-<!-- ================================================================ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=800&color=FF3030&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;WELCOME+TO+KAIO'S+DIGITAL+LAB.;PYTHON+%7C+C%23+%7C+C%2B%2B+%7C+GAMEMAKER;BUILDING+IDEAS+INTO+CODE.;WITH+GREAT+POWER+COMES+GREAT+CODE." alt="Typing Animation">
 
-<img src="./assets/spiderman-banner.jpg" width="100%" alt="Kaio — Spider-Man themed GitHub banner">{=html}
+<br><br>
 
-<br>{=html}<br>{=html}
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF3030?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20GAME%20DEV-8B0000?style=for-the-badge&logo=gamemaker&logoColor=white">
+<img src="https://img.shields.io/badge/STATUS-BUILDING-101010?style=for-the-badge&logo=githubactions&logoColor=FF3030">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=800&color=FF3030&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;WELCOME+TO+KAIO'S+DIGITAL+LAB.;PYTHON+%7C+C%23+%7C+C%2B%2B+%7C+GAMEMAKER;BUILDING+IDEAS+INTO+CODE.;WITH+GREAT+POWER+COMES+GREAT+CODE." alt="Typing Animation">{=html}
-
-<br>{=html}
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-FF3030?style=for-the-badge&logo=github&logoColor=white">{=html}
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20GAME%20DEV-8B0000?style=for-the-badge&logo=gamemaker&logoColor=white">{=html}
-<img src="https://img.shields.io/badge/STATUS-BUILDING-101010?style=for-the-badge&logo=githubactions&logoColor=FF3030">{=html}
-:::
+</div>
 
 > BOOT_SEQUENCE
 
@@ -28,8 +23,259 @@
 ║ [✓] DEVELOPER PROFILE .......... LOADED                              ║
 ║ [✓] PYTHON MODULE .............. READY                               ║
 ║ [✓] C# MODULE .................. READY                               ║
-║ [✓] C++ MODULE .................. READY                              ║
+║ [✓] C++ MODULE ................. READY                               ║
 ║ [✓] GAME DEV MODULE ............. READY                              ║
+║ [✓] SPIDER PROTOCOL ............. ACTIVE                             ║
+║                                                                      ║
+║ SYSTEM STATUS: ONLINE                                                ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+// Olá, eu sou Kaio
+
+<div align="center">
+
+Desenvolvedor • Programador • Game Developer
+
+</div>
+
+Sou Kaio, desenvolvedor focado em aprender construindo projetos reais.
+
+Meus principais interesses são Python, C#, C++, GameMaker e Visual Studio Code, com foco em programação, desenvolvimento de jogos, automação e criação de ferramentas.
+
+BUILD → BREAK → LEARN → IMPROVE → BUILD AGAIN
+
+> ABOUT_ME.exe
+
+name: Kaio
+github: kaio-dot9
+codename: Spider.Dev
+
+role: Developer
+
+focus:
+  - Software Development
+  - Game Development
+  - Programming
+  - Automation
+  - Learning
+
+languages:
+  - Python
+  - C#
+  - C++
+
+game_dev:
+  - GameMaker
+
+tools:
+  - Visual Studio Code
+  - Git
+  - GitHub
+
+theme:
+  primary: "#FF3030"
+  dark_red: "#8B0000"
+  background: "#050505"
+
+> TECH_STACK
+
+<div align="center">
+
+LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark" alt="Python, C Sharp and C++">
+
+<br><br>
+
+GAME DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=gamemaker&theme=dark" alt="GameMaker">
+
+<br><br>
+
+TOOLS
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Visual Studio Code, Git and GitHub">
+
+</div>
+
+> DEVELOPMENT_LOADOUT
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="60" alt="Python">
+
+Python
+
+Automation<br>
+Logic<br>
+Experiments
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="60" alt="C Sharp">
+
+C#
+
+Applications<br>
+Game Development<br>
+OOP
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="60" alt="C++">
+
+C++
+
+Systems<br>
+Performance<br>
+Low-Level Concepts
+
+</td>
+
+<td align="center" width="180">
+
+<img src="https://skillicons.dev/icons?i=gamemaker&theme=dark" width="60" alt="GameMaker">
+
+GameMaker
+
+Games<br>
+Gameplay<br>
+Game Logic
+
+</td>
+</tr>
+</table>
+
+> PROJECTS // HOLOGRAPHIC_DECK
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+01 // SPIDER.LAB
+
+Projetos de programação e desenvolvimento de jogos, usando GameMaker como laboratório criativo.
+
+STATUS : BUILDING
+ENGINE : GAMEMAKER
+MODE   : EXPERIMENTAL
+
+<a href="https://github.com/kaio-dot9?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="View projects">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+02 // JARVIS.LAB
+
+Experimentos em Python, automação e pequenas ferramentas para transformar ideias em sistemas.
+
+STATUS   : BUILDING
+LANGUAGE : PYTHON
+MODE     : AUTOMATION
+
+<a href="https://github.com/kaio-dot9?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="View projects">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+> CURRENT_MISSION
+
+kaio@spider-lab:~$ ./mission.sh
+
+[✓] Learn Python
+[✓] Improve C#
+[✓] Explore C++
+[✓] Study Game Development
+[✓] Improve Git & GitHub
+
+[>] Build real-world projects
+[>] Publish polished repositories
+[>] Create games
+[>] Improve software architecture
+[>] Turn experiments into finished projects
+
+kaio@spider-lab:~$ _
+
+> GITHUB // SYSTEM_METRICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kaio-dot9&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=FF3030&icon_color=FF3030&text_color=E6E6E6" alt="GitHub Stats">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-dot9&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=FF3030&text_color=E6E6E6" alt="Top Languages">
+
+<br><br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=kaio-dot9&theme=dark&hide_border=true&background=050505&ring=FF3030&fire=FF3030&currStreakLabel=FF3030&sideLabels=E6E6E6&dates=777777" alt="GitHub Streak">
+
+</div>
+
+> ACTIVITY // LIVE_FEED
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaio-dot9&bg_color=050505&color=E6E6E6&line=FF3030&point=FFFFFF&area=true&hide_border=true&custom_title=KAIO%20%2F%2F%20ACTIVITY%20GRAPH" width="95%" alt="GitHub Activity Graph">
+
+</div>
+
+> TROPHIES // ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaio-dot9&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="GitHub Trophies">
+
+</div>
+
+> CONTRIBUTIONS // SPIDER_PROTOCOL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaio-dot9/kaio-dot9/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake">
+
+</div>
+
+> SOCIAL_NETWORK
+
+<div align="center">
+
+<a href="https://github.com/kaio-dot9">
+<img src="https://img.shields.io/badge/GitHub-kaio--dot9-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://github.com/kaio-dot9?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/●%20SYSTEM%20ONLINE-FF3030?style=for-the-badge&labelColor=050505" alt="System online">
+<img src="https://img.shields.io/badge/BUILDING-8B0000?style=for-the-badge&logo=githubactions&logoColor=white" alt="Building">
+<img src="https://img.shields.io/badge/LEARNING-101010?style=for-the-badge&logo=bookstack&logoColor=FF3030" alt="Learning">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:FF3030&height=130&section=footer" width="100%" alt="Footer">
+
+<sub>KAIO // SPIDER.DEV // SYSTEM ONLINE // 2026</sub>
+
+</div>║ [✓] GAME DEV MODULE ............. READY                              ║
 ║ [✓] SPIDER PROTOCOL ............. ACTIVE                             ║
 ║                                                                      ║
 ║ SYSTEM STATUS: ONLINE                                                ║
